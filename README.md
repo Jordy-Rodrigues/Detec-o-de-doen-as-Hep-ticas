@@ -1,2 +1,2 @@
-# Detec-o-de-doen-as-Hep-ticas
+# Detecão-de-doenças-Hepáticas
 INSIGHTS DA CIENCIA DE DADOS PARA A SAÚDE
